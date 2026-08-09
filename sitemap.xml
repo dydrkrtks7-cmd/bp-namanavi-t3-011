@@ -1,248 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gyeongju-hanok-stay.namanavi.com/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/about.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gyeongju-hanok-stay.namanavi.com/blog.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/post-1.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/post-2.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/post-3.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/post-4.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/post-5.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/post-4.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/post-5.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260704-159.html</loc>
-    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260705-981.html</loc>
-    <lastmod>2026-07-04</lastmod>
+    <loc>https://gyeongju-hanok-stay.namanavi.com/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gyeongju-hanok-stay.namanavi.com/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260704-159.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260705-1209.html</loc>
-    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260705-981.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0137.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0138.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0139.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0140.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0141.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0142.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0143.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0144.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0145.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0146.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0147.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0148.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0149.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0150.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0151.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0152.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260719-0153.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260722-0166.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260722-0167.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260722-0168.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260722-0169.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260722-0170.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260722-0171.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260722-0172.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260722-0173.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260722-0174.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260722-0175.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gyeongju-hanok-stay.namanavi.com/posts/gemini-coverage-20260722-0176.html</loc>
-    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/post-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/post-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/post-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/post-4.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gyeongju-hanok-stay.namanavi.com/posts/post-5.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
