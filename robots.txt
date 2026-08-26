@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gyeongju-hanok-stay.namanavi.com/sitemap.xml
+Sitemap: https://gyeongju-hanok-stay.namanavi.com/sitemap-pages.xml
